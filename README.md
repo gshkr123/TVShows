@@ -10,7 +10,8 @@ This application can be viewed live at http://gshkr.pythonanywhere.com/
 4) Now make sure you are inside /mysite folder
 5) Create a virtual env using **python3 -m venv <name_of_virtualenv>**
 6) After that run the command to install requirements **pip install -r requirements.txt**
-7) Once it completes run python3 flask_app.py
+7) Now run python3 load_data.py. This code is responsible for partial reading of a file that can be larger than memory and loads the data into database.
+8) Once it completes run python3 flask_app.py
 
 Now you should see the app runs and provides a localhost id like htttp://127.0.0.1/{some port number}. Copy this to your web browser and you will be able
 to see data.
