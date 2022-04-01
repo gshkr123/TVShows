@@ -17,7 +17,8 @@ Now you should see the app runs and provides a localhost id like htttp://127.0.0
 to see data.
 
 Screenshot of the landing page
-<img width="1440" alt="Screen Shot 2022-03-31 at 11 41 09 PM" src="https://user-images.githubusercontent.com/21229628/161190981-5e236aac-f243-4e42-b803-5839d59ee5c1.png">
+
+<img width="1440" alt="Screen Shot 2022-04-01 at 12 37 24 AM" src="https://user-images.githubusercontent.com/21229628/161195902-dfa95ad6-837a-4184-adaa-26345a7d3028.png">
 
 
 Now from the dropdown bar select a city you are interested in and click on Get Data. Now you will see the data of that city similar to the below screenshot.
