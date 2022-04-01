@@ -1,0 +1,15 @@
+<html lang="en">
+<head>
+</head>
+<body>
+
+<div class=page>
+  <h1>Selected City Data</h1>
+  {% for table in tables %}
+    <h2>{{titles[loop.index]}}</h2>
+    {{ table|safe }}
+  {% endfor %}
+</div>
+
+  </body>
+</html>
